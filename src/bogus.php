@@ -6,6 +6,6 @@
  *  @param $arg1 My first argument
  *  @return null
  */
-function fn_one($arg1)
+function fn_bogus($arg1)
 {
 }
